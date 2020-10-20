@@ -1,7 +1,6 @@
 ### Hi there, I'm [Johnny!](https://github.com/JohnnyVM) 👋
 
 <br />
-<br />
 
 Hi, I'm Johnny, a passionate self-taught developer from Spain.
 
