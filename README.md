@@ -4,7 +4,7 @@
 
 Hi, I'm Johnny, a passionate self-taught developer from Spain.
 
-- 🔭 I’m currently working on [Michelin](https://michelin.com) as C/C++ Software consultant
+- 🔭 I’m currently working as C/C++ Software consultant
 - 💬 Ask me about anything [here](https://github.com/JohnnyVM/JohnnyVM/issues)
 
 **Languages and Tools:**  
